@@ -4,7 +4,7 @@ Compared with traditional evaluation methods, we consider the parent-child relat
 This repository includes:
 - Utils to generate intermediate files
 - Test examples
-- Source code of [cocoapi](https://github.com/cocodataset/cocoapi)
+- Modified source code of [cocoapi](https://github.com/cocodataset/cocoapi)
 # Getting Started
 ## 1. Install cocoapi
 - For Matlab, add coco/MatlabApi to the Matlab path (OSX/Linux binaries provided)
