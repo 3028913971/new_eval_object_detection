@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<folder>OpenImages</folder>
+	<filename>0000bcb094764718</filename>
+	<source>
+		<database>Google Open Images</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>576</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Drink</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>1</difficult>
+		<bndbox>
+			<xmin>282</xmin>
+			<xmax>351</xmax>
+			<ymin>154</ymin>
+			<ymax>298</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Toy</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>1</difficult>
+		<bndbox>
+			<xmin>164</xmin>
+			<xmax>334</xmax>
+			<ymin>280</ymin>
+			<ymax>562</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Clothing</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>1</difficult>
+		<bndbox>
+			<xmin>255</xmin>
+			<xmax>409</xmax>
+			<ymin>342</ymin>
+			<ymax>575</ymax>
+		</bndbox>
+	</object>
+</annotation>

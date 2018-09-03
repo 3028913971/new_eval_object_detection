@@ -1,0 +1,2726 @@
+{
+  "Snack": [
+    "Food", 
+    "entity"
+  ], 
+  "Van": [
+    "entity", 
+    "Car", 
+    "Land vehicle", 
+    "Vehicle"
+  ], 
+  "Waffle iron": [
+    "Kitchenware", 
+    "Kitchen appliance", 
+    "entity"
+  ], 
+  "Harmonica": [
+    "Musical instrument", 
+    "entity"
+  ], 
+  "Gondola": [
+    "entity", 
+    "Watercraft", 
+    "Boat", 
+    "Vehicle"
+  ], 
+  "Elephant": [
+    "Mammal", 
+    "Animal", 
+    "entity"
+  ], 
+  "Baked goods": [
+    "Food", 
+    "entity"
+  ], 
+  "Porcupine": [
+    "Mammal", 
+    "Animal", 
+    "entity"
+  ], 
+  "Plate": [
+    "Tableware", 
+    "Kitchenware", 
+    "entity"
+  ], 
+  "Umbrella": [
+    "Fashion accessory", 
+    "Clothing", 
+    "entity"
+  ], 
+  "Ipod": [
+    "entity"
+  ], 
+  "Accordion": [
+    "Musical instrument", 
+    "entity"
+  ], 
+  "Watch": [
+    "Fashion accessory", 
+    "Clothing", 
+    "entity"
+  ], 
+  "Polar bear": [
+    "Mammal", 
+    "Carnivore", 
+    "Animal", 
+    "Bear", 
+    "entity"
+  ], 
+  "Rifle": [
+    "Weapon", 
+    "entity"
+  ], 
+  "Goldfish": [
+    "Fish", 
+    "Animal", 
+    "entity"
+  ], 
+  "Organ": [
+    "Musical instrument", 
+    "entity"
+  ], 
+  "Starfish": [
+    "Marine invertebrates", 
+    "entity", 
+    "Animal", 
+    "Invertebrate"
+  ], 
+  "Carnivore": [
+    "Mammal", 
+    "Animal", 
+    "entity"
+  ], 
+  "Candy": [
+    "Food", 
+    "Dessert", 
+    "entity"
+  ], 
+  "Chopsticks": [
+    "Kitchen utensil", 
+    "Tool", 
+    "Kitchenware", 
+    "Tableware", 
+    "entity"
+  ], 
+  "Wine glass": [
+    "Tableware", 
+    "Kitchenware", 
+    "entity"
+  ], 
+  "Barrel": [
+    "Tool", 
+    "Container", 
+    "entity"
+  ], 
+  "Picture frame": [
+    "entity"
+  ], 
+  "Home appliance": [
+    "entity"
+  ], 
+  "Tap": [
+    "Plumbing fixture", 
+    "entity"
+  ], 
+  "Canoe": [
+    "entity", 
+    "Watercraft", 
+    "Boat", 
+    "Vehicle"
+  ], 
+  "Sports uniform": [
+    "Clothing", 
+    "entity"
+  ], 
+  "Canary": [
+    "Bird", 
+    "Animal", 
+    "entity"
+  ], 
+  "Juice": [
+    "Drink", 
+    "entity"
+  ], 
+  "Motorcycle": [
+    "entity", 
+    "Land vehicle", 
+    "Vehicle"
+  ], 
+  "Panda": [
+    "Mammal", 
+    "Carnivore", 
+    "Animal", 
+    "Bear", 
+    "entity"
+  ], 
+  "Turkey": [
+    "Bird", 
+    "Animal", 
+    "entity"
+  ], 
+  "Willow": [
+    "Plant", 
+    "Tree", 
+    "entity"
+  ], 
+  "Camera": [
+    "Tool", 
+    "entity"
+  ], 
+  "Suit": [
+    "Clothing", 
+    "entity"
+  ], 
+  "Orange": [
+    "Food", 
+    "Fruit", 
+    "entity"
+  ], 
+  "Jet ski": [
+    "entity", 
+    "Watercraft", 
+    "Vehicle"
+  ], 
+  "Computer keyboard": [
+    "entity"
+  ], 
+  "Fork": [
+    "Kitchen utensil", 
+    "Tool", 
+    "Kitchenware", 
+    "Tableware", 
+    "entity"
+  ], 
+  "Briefcase": [
+    "Luggage and bags", 
+    "Clothing", 
+    "entity"
+  ], 
+  "Hat": [
+    "Fashion accessory", 
+    "Clothing", 
+    "entity"
+  ], 
+  "Squash": [
+    "Vegetable", 
+    "Food", 
+    "entity"
+  ], 
+  "Chainsaw": [
+    "Tool", 
+    "entity"
+  ], 
+  "Wardrobe": [
+    "entity", 
+    "Furniture"
+  ], 
+  "Doughnut": [
+    "Food", 
+    "Baked goods", 
+    "Pastry", 
+    "entity"
+  ], 
+  "Digital clock": [
+    "entity", 
+    "Clock"
+  ], 
+  "Croissant": [
+    "Food", 
+    "Baked goods", 
+    "Pastry", 
+    "entity"
+  ], 
+  "French fries": [
+    "Food", 
+    "entity", 
+    "Fast food"
+  ], 
+  "Ostrich": [
+    "Bird", 
+    "Animal", 
+    "entity"
+  ], 
+  "Hair spray": [
+    "Cosmetics", 
+    "entity"
+  ], 
+  "Hamster": [
+    "Mammal", 
+    "Animal", 
+    "entity"
+  ], 
+  "Mechanical fan": [
+    "Home appliance", 
+    "entity"
+  ], 
+  "Snowman": [
+    "Sculpture", 
+    "entity"
+  ], 
+  "Teddy bear": [
+    "Carnivore", 
+    "Toy", 
+    "Bear", 
+    "entity", 
+    "Animal", 
+    "Mammal"
+  ], 
+  "Doll": [
+    "Toy", 
+    "entity"
+  ], 
+  "Traffic sign": [
+    "entity"
+  ], 
+  "Waste container": [
+    "Tool", 
+    "Container", 
+    "entity"
+  ], 
+  "Pastry": [
+    "Food", 
+    "Baked goods", 
+    "entity"
+  ], 
+  "Airplane": [
+    "Aircraft", 
+    "entity", 
+    "Vehicle"
+  ], 
+  "Kitchen appliance": [
+    "Kitchenware", 
+    "entity"
+  ], 
+  "Marine invertebrates": [
+    "entity", 
+    "Animal", 
+    "Invertebrate"
+  ], 
+  "Toy": [
+    "entity"
+  ], 
+  "Lipstick": [
+    "Cosmetics", 
+    "entity"
+  ], 
+  "Washing machine": [
+    "Home appliance", 
+    "entity"
+  ], 
+  "Bottle opener": [
+    "Kitchen utensil", 
+    "Tool", 
+    "Kitchenware", 
+    "entity"
+  ], 
+  "Infant bed": [
+    "entity", 
+    "Bed", 
+    "Furniture"
+  ], 
+  "Boot": [
+    "Clothing", 
+    "Footwear", 
+    "entity"
+  ], 
+  "Book": [
+    "entity"
+  ], 
+  "Fountain": [
+    "entity"
+  ], 
+  "Animal": [
+    "entity"
+  ], 
+  "Piano": [
+    "Musical instrument", 
+    "entity"
+  ], 
+  "Tent": [
+    "entity"
+  ], 
+  "Dragonfly": [
+    "Insect", 
+    "entity", 
+    "Animal", 
+    "Invertebrate"
+  ], 
+  "Cupboard": [
+    "entity", 
+    "Furniture"
+  ], 
+  "Porch": [
+    "entity"
+  ], 
+  "Pear": [
+    "Food", 
+    "Fruit", 
+    "entity"
+  ], 
+  "Bathroom cabinet": [
+    "entity", 
+    "Furniture"
+  ], 
+  "Tiger": [
+    "Mammal", 
+    "Carnivore", 
+    "Animal", 
+    "entity"
+  ], 
+  "Harbor seal": [
+    "Marine mammal", 
+    "Mammal", 
+    "Animal", 
+    "entity"
+  ], 
+  "Bookcase": [
+    "entity", 
+    "Furniture"
+  ], 
+  "Armadillo": [
+    "Mammal", 
+    "Animal", 
+    "entity"
+  ], 
+  "Refrigerator": [
+    "Kitchenware", 
+    "Home appliance", 
+    "Kitchen appliance", 
+    "entity"
+  ], 
+  "Weapon": [
+    "entity"
+  ], 
+  "Bed": [
+    "entity", 
+    "Furniture"
+  ], 
+  "Bee": [
+    "Insect", 
+    "entity", 
+    "Animal", 
+    "Invertebrate"
+  ], 
+  "Person": [
+    "entity"
+  ], 
+  "Footwear": [
+    "Clothing", 
+    "entity"
+  ], 
+  "Bottle": [
+    "Container", 
+    "Tableware", 
+    "Kitchenware", 
+    "Tool", 
+    "entity"
+  ], 
+  "Human foot": [
+    "entity"
+  ], 
+  "Cheese": [
+    "Food", 
+    "Dairy", 
+    "entity"
+  ], 
+  "Chest of drawers": [
+    "entity", 
+    "Furniture"
+  ], 
+  "Muffin": [
+    "Food", 
+    "Dessert", 
+    "Baked goods", 
+    "entity"
+  ], 
+  "Crown": [
+    "Fashion accessory", 
+    "Clothing", 
+    "entity"
+  ], 
+  "Snowmobile": [
+    "entity", 
+    "Land vehicle", 
+    "Vehicle"
+  ], 
+  "Sun hat": [
+    "Clothing", 
+    "Fashion accessory", 
+    "Hat", 
+    "entity"
+  ], 
+  "Shelf": [
+    "entity", 
+    "Furniture"
+  ], 
+  "Furniture": [
+    "entity"
+  ], 
+  "Skirt": [
+    "Clothing", 
+    "entity"
+  ], 
+  "Pencil sharpener": [
+    "Office supplies", 
+    "entity"
+  ], 
+  "Alpaca": [
+    "Mammal", 
+    "Animal", 
+    "entity"
+  ], 
+  "Monkey": [
+    "Mammal", 
+    "Animal", 
+    "entity"
+  ], 
+  "Traffic light": [
+    "entity"
+  ], 
+  "Swan": [
+    "Bird", 
+    "Animal", 
+    "entity"
+  ], 
+  "Plastic bag": [
+    "Office supplies", 
+    "entity"
+  ], 
+  "Cheetah": [
+    "Mammal", 
+    "Carnivore", 
+    "Animal", 
+    "entity"
+  ], 
+  "Banana": [
+    "Food", 
+    "Fruit", 
+    "entity"
+  ], 
+  "Pizza": [
+    "Food", 
+    "entity"
+  ], 
+  "Wheel": [
+    "Auto part", 
+    "entity"
+  ], 
+  "Eagle": [
+    "Bird", 
+    "Animal", 
+    "entity"
+  ], 
+  "Snail": [
+    "entity", 
+    "Animal", 
+    "Invertebrate"
+  ], 
+  "Cannon": [
+    "Weapon", 
+    "entity"
+  ], 
+  "Drink": [
+    "entity"
+  ], 
+  "Swim cap": [
+    "Clothing", 
+    "entity"
+  ], 
+  "Fruit": [
+    "Food", 
+    "entity"
+  ], 
+  "Indoor rower": [
+    "Sports equipment", 
+    "entity"
+  ], 
+  "Coat": [
+    "Clothing", 
+    "entity"
+  ], 
+  "Falcon": [
+    "Bird", 
+    "Animal", 
+    "entity"
+  ], 
+  "Cabbage": [
+    "Vegetable", 
+    "Food", 
+    "entity"
+  ], 
+  "Television": [
+    "entity"
+  ], 
+  "Tank": [
+    "entity", 
+    "Weapon", 
+    "Land vehicle", 
+    "Vehicle"
+  ], 
+  "Seafood": [
+    "Food", 
+    "entity"
+  ], 
+  "Fast food": [
+    "Food", 
+    "entity"
+  ], 
+  "Chisel": [
+    "Tool", 
+    "entity"
+  ], 
+  "Dog": [
+    "Mammal", 
+    "Carnivore", 
+    "Animal", 
+    "entity"
+  ], 
+  "Crutch": [
+    "Personal care", 
+    "entity"
+  ], 
+  "Dinosaur": [
+    "Reptile", 
+    "Animal", 
+    "entity"
+  ], 
+  "Lizard": [
+    "Reptile", 
+    "Animal", 
+    "entity"
+  ], 
+  "Measuring cup": [
+    "Kitchen utensil", 
+    "Tool", 
+    "Kitchenware", 
+    "entity"
+  ], 
+  "Cake": [
+    "Food", 
+    "Dessert", 
+    "entity"
+  ], 
+  "Light bulb": [
+    "entity"
+  ], 
+  "Fire hydrant": [
+    "entity"
+  ], 
+  "Reptile": [
+    "Animal", 
+    "entity"
+  ], 
+  "Face powder": [
+    "Cosmetics", 
+    "entity"
+  ], 
+  "Deer": [
+    "Mammal", 
+    "Animal", 
+    "entity"
+  ], 
+  "Training bench": [
+    "Sports equipment", 
+    "entity"
+  ], 
+  "Carrot": [
+    "Vegetable", 
+    "Food", 
+    "entity"
+  ], 
+  "Musical keyboard": [
+    "Musical instrument", 
+    "entity"
+  ], 
+  "Cattle": [
+    "Mammal", 
+    "Animal", 
+    "entity"
+  ], 
+  "Chime": [
+    "Musical instrument", 
+    "entity"
+  ], 
+  "Hammer": [
+    "Tool", 
+    "entity"
+  ], 
+  "Power plugs and sockets": [
+    "entity"
+  ], 
+  "Blender": [
+    "Kitchenware", 
+    "Home appliance", 
+    "Kitchen appliance", 
+    "entity"
+  ], 
+  "Serving tray": [
+    "Tableware", 
+    "Kitchenware", 
+    "entity"
+  ], 
+  "Helmet": [
+    "Sports equipment", 
+    "Clothing", 
+    "entity"
+  ], 
+  "Horse": [
+    "Mammal", 
+    "Animal", 
+    "entity"
+  ], 
+  "Mixing bowl": [
+    "Tableware", 
+    "Kitchenware", 
+    "entity"
+  ], 
+  "Rays and skates": [
+    "Fish", 
+    "Animal", 
+    "entity"
+  ], 
+  "entity": [], 
+  "Paddle": [
+    "Sports equipment", 
+    "entity"
+  ], 
+  "Frying pan": [
+    "Kitchenware", 
+    "entity"
+  ], 
+  "Bird": [
+    "Animal", 
+    "entity"
+  ], 
+  "Food processor": [
+    "Kitchenware", 
+    "Kitchen appliance", 
+    "entity"
+  ], 
+  "Stationary bicycle": [
+    "Sports equipment", 
+    "entity"
+  ], 
+  "Dessert": [
+    "Food", 
+    "entity"
+  ], 
+  "Kangaroo": [
+    "Mammal", 
+    "Animal", 
+    "entity"
+  ], 
+  "Screwdriver": [
+    "Tool", 
+    "entity"
+  ], 
+  "Invertebrate": [
+    "Animal", 
+    "entity"
+  ], 
+  "Marine mammal": [
+    "Mammal", 
+    "Animal", 
+    "entity"
+  ], 
+  "Sink": [
+    "Plumbing fixture", 
+    "entity"
+  ], 
+  "Brown bear": [
+    "Mammal", 
+    "Carnivore", 
+    "Animal", 
+    "Bear", 
+    "entity"
+  ], 
+  "Broccoli": [
+    "Vegetable", 
+    "Food", 
+    "entity"
+  ], 
+  "Oyster": [
+    "Shellfish", 
+    "Food", 
+    "Seafood", 
+    "Invertebrate", 
+    "Animal", 
+    "entity"
+  ], 
+  "Beaker": [
+    "Tool", 
+    "Container", 
+    "entity"
+  ], 
+  "Bat": [
+    "Mammal", 
+    "Animal", 
+    "entity"
+  ], 
+  "Towel": [
+    "Bathroom accessory", 
+    "entity"
+  ], 
+  "Car": [
+    "entity", 
+    "Land vehicle", 
+    "Vehicle"
+  ], 
+  "Skateboard": [
+    "Sports equipment", 
+    "entity"
+  ], 
+  "Cat": [
+    "Mammal", 
+    "Carnivore", 
+    "Animal", 
+    "entity"
+  ], 
+  "Handbag": [
+    "Luggage and bags", 
+    "Fashion accessory", 
+    "Clothing", 
+    "entity"
+  ], 
+  "Hamburger": [
+    "Food", 
+    "Sandwich", 
+    "entity"
+  ], 
+  "Tower": [
+    "Building", 
+    "entity"
+  ], 
+  "Pillow": [
+    "entity"
+  ], 
+  "Glasses": [
+    "Fashion accessory", 
+    "Clothing", 
+    "Personal care", 
+    "entity"
+  ], 
+  "Coconut": [
+    "entity"
+  ], 
+  "Palm tree": [
+    "Plant", 
+    "Tree", 
+    "entity"
+  ], 
+  "Laptop": [
+    "entity"
+  ], 
+  "Squid": [
+    "Marine invertebrates", 
+    "Food", 
+    "Seafood", 
+    "Invertebrate", 
+    "Animal", 
+    "entity"
+  ], 
+  "Telephone": [
+    "entity"
+  ], 
+  "Goose": [
+    "Bird", 
+    "Animal", 
+    "entity"
+  ], 
+  "Isopod": [
+    "Marine invertebrates", 
+    "entity", 
+    "Animal", 
+    "Invertebrate"
+  ], 
+  "Sewing machine": [
+    "Home appliance", 
+    "entity"
+  ], 
+  "Mobile phone": [
+    "Telephone", 
+    "entity"
+  ], 
+  "Mouse": [
+    "Mammal", 
+    "Animal", 
+    "entity"
+  ], 
+  "Milk": [
+    "Food", 
+    "Dairy", 
+    "entity"
+  ], 
+  "Skyscraper": [
+    "Building", 
+    "entity"
+  ], 
+  "Grinder": [
+    "Tool", 
+    "entity"
+  ], 
+  "Clock": [
+    "entity"
+  ], 
+  "Rose": [
+    "Plant", 
+    "Flower", 
+    "entity"
+  ], 
+  "Balloon": [
+    "Toy", 
+    "entity"
+  ], 
+  "Frog": [
+    "Reptile", 
+    "Animal", 
+    "entity"
+  ], 
+  "Mug": [
+    "Tableware", 
+    "Kitchenware", 
+    "entity"
+  ], 
+  "Auto part": [
+    "entity"
+  ], 
+  "Wok": [
+    "Kitchenware", 
+    "entity"
+  ], 
+  "Treadmill": [
+    "Sports equipment", 
+    "entity"
+  ], 
+  "Knife": [
+    "Kitchen utensil", 
+    "Tool", 
+    "Kitchenware", 
+    "Weapon", 
+    "entity"
+  ], 
+  "Honeycomb": [
+    "Food", 
+    "entity"
+  ], 
+  "Human arm": [
+    "entity"
+  ], 
+  "Door": [
+    "entity"
+  ], 
+  "Common fig": [
+    "Food", 
+    "Fruit", 
+    "entity"
+  ], 
+  "Leopard": [
+    "Mammal", 
+    "Carnivore", 
+    "Animal", 
+    "entity"
+  ], 
+  "Vase": [
+    "entity"
+  ], 
+  "Flag": [
+    "entity"
+  ], 
+  "Remote control": [
+    "entity"
+  ], 
+  "Watermelon": [
+    "Food", 
+    "Fruit", 
+    "entity"
+  ], 
+  "Diaper": [
+    "Personal care", 
+    "entity"
+  ], 
+  "Rabbit": [
+    "Mammal", 
+    "Animal", 
+    "entity"
+  ], 
+  "Burrito": [
+    "Food", 
+    "entity"
+  ], 
+  "Human beard": [
+    "entity"
+  ], 
+  "Band-aid": [
+    "Medical equipment", 
+    "entity"
+  ], 
+  "Worm": [
+    "entity", 
+    "Animal", 
+    "Invertebrate"
+  ], 
+  "Golf ball": [
+    "Sports equipment", 
+    "entity"
+  ], 
+  "Egg": [
+    "Food", 
+    "entity"
+  ], 
+  "Scarf": [
+    "Fashion accessory", 
+    "Clothing", 
+    "entity"
+  ], 
+  "Bell pepper": [
+    "Vegetable", 
+    "Food", 
+    "entity"
+  ], 
+  "Guacamole": [
+    "Food", 
+    "entity"
+  ], 
+  "Calculator": [
+    "Office supplies", 
+    "entity"
+  ], 
+  "Horn": [
+    "Musical instrument", 
+    "entity"
+  ], 
+  "Nail": [
+    "Tool", 
+    "entity"
+  ], 
+  "Mirror": [
+    "entity"
+  ], 
+  "Chair": [
+    "entity", 
+    "Furniture"
+  ], 
+  "Microphone": [
+    "entity"
+  ], 
+  "Human hand": [
+    "entity"
+  ], 
+  "Ambulance": [
+    "entity", 
+    "Land vehicle", 
+    "Vehicle"
+  ], 
+  "Computer mouse": [
+    "entity"
+  ], 
+  "Swimwear": [
+    "Clothing", 
+    "entity"
+  ], 
+  "Submarine": [
+    "entity", 
+    "Watercraft", 
+    "Vehicle"
+  ], 
+  "Lamp": [
+    "entity"
+  ], 
+  "Earrings": [
+    "Fashion accessory", 
+    "Clothing", 
+    "entity"
+  ], 
+  "Zucchini": [
+    "Vegetable", 
+    "Food", 
+    "Squash", 
+    "entity"
+  ], 
+  "Ladybug": [
+    "entity", 
+    "Insect", 
+    "Invertebrate", 
+    "Animal", 
+    "Beetle"
+  ], 
+  "Platter": [
+    "Tableware", 
+    "Kitchenware", 
+    "entity"
+  ], 
+  "Bicycle helmet": [
+    "Helmet", 
+    "Clothing", 
+    "Sports equipment", 
+    "entity"
+  ], 
+  "Cocktail": [
+    "Drink", 
+    "entity"
+  ], 
+  "Facial tissue holder": [
+    "Bathroom accessory", 
+    "entity"
+  ], 
+  "Snowplow": [
+    "Tool", 
+    "entity"
+  ], 
+  "Pitcher": [
+    "Tableware", 
+    "Kitchenware", 
+    "entity"
+  ], 
+  "Aircraft": [
+    "entity", 
+    "Vehicle"
+  ], 
+  "Giraffe": [
+    "Mammal", 
+    "Animal", 
+    "entity"
+  ], 
+  "Kitchenware": [
+    "entity"
+  ], 
+  "Otter": [
+    "Mammal", 
+    "Carnivore", 
+    "Animal", 
+    "entity"
+  ], 
+  "Dishwasher": [
+    "Kitchenware", 
+    "Home appliance", 
+    "Kitchen appliance", 
+    "entity"
+  ], 
+  "Adhesive tape": [
+    "Office supplies", 
+    "entity"
+  ], 
+  "Stool": [
+    "entity", 
+    "Furniture"
+  ], 
+  "Whiteboard": [
+    "Office supplies", 
+    "entity"
+  ], 
+  "Pretzel": [
+    "Food", 
+    "Snack", 
+    "Baked goods", 
+    "entity"
+  ], 
+  "Punching bag": [
+    "Sports equipment", 
+    "entity"
+  ], 
+  "Shrimp": [
+    "Marine invertebrates", 
+    "Shellfish", 
+    "Food", 
+    "Seafood", 
+    "entity", 
+    "Animal", 
+    "Invertebrate"
+  ], 
+  "Jacket": [
+    "Clothing", 
+    "entity"
+  ], 
+  "Ratchet": [
+    "Tool", 
+    "entity"
+  ], 
+  "Necklace": [
+    "Fashion accessory", 
+    "Clothing", 
+    "entity"
+  ], 
+  "Lifejacket": [
+    "Sports equipment", 
+    "entity"
+  ], 
+  "Apple": [
+    "Food", 
+    "Fruit", 
+    "entity"
+  ], 
+  "Taxi": [
+    "entity", 
+    "Land vehicle", 
+    "Vehicle"
+  ], 
+  "Heater": [
+    "Home appliance", 
+    "entity"
+  ], 
+  "Table": [
+    "entity", 
+    "Furniture"
+  ], 
+  "Dagger": [
+    "Weapon", 
+    "entity"
+  ], 
+  "Microwave oven": [
+    "Kitchenware", 
+    "Home appliance", 
+    "Kitchen appliance", 
+    "entity"
+  ], 
+  "Radish": [
+    "Vegetable", 
+    "Food", 
+    "entity"
+  ], 
+  "Cooking spray": [
+    "Food", 
+    "entity"
+  ], 
+  "Zebra": [
+    "Mammal", 
+    "Animal", 
+    "entity"
+  ], 
+  "Duck": [
+    "Bird", 
+    "Animal", 
+    "entity"
+  ], 
+  "Dumbbell": [
+    "Sports equipment", 
+    "entity"
+  ], 
+  "Cake stand": [
+    "Tableware", 
+    "Kitchenware", 
+    "entity"
+  ], 
+  "Container": [
+    "Tool", 
+    "entity"
+  ], 
+  "Peach": [
+    "Food", 
+    "Fruit", 
+    "entity"
+  ], 
+  "Jeans": [
+    "entity", 
+    "Clothing", 
+    "Trousers"
+  ], 
+  "Backpack": [
+    "Luggage and bags", 
+    "Clothing", 
+    "entity"
+  ], 
+  "Sock": [
+    "Fashion accessory", 
+    "Clothing", 
+    "entity"
+  ], 
+  "Window": [
+    "entity"
+  ], 
+  "Crab": [
+    "Marine invertebrates", 
+    "Shellfish", 
+    "Food", 
+    "Seafood", 
+    "entity", 
+    "Animal", 
+    "Invertebrate"
+  ], 
+  "Vegetable": [
+    "Food", 
+    "entity"
+  ], 
+  "Wood-burning stove": [
+    "Home appliance", 
+    "entity"
+  ], 
+  "Bow and arrow": [
+    "Sports equipment", 
+    "Weapon", 
+    "entity"
+  ], 
+  "Paper cutter": [
+    "Office supplies", 
+    "entity"
+  ], 
+  "Skull": [
+    "entity"
+  ], 
+  "Mushroom": [
+    "Food", 
+    "entity"
+  ], 
+  "Countertop": [
+    "entity"
+  ], 
+  "Food": [
+    "entity"
+  ], 
+  "Pomegranate": [
+    "Food", 
+    "Fruit", 
+    "entity"
+  ], 
+  "Tripod": [
+    "Tool", 
+    "entity"
+  ], 
+  "Asparagus": [
+    "Vegetable", 
+    "Food", 
+    "entity"
+  ], 
+  "Tablet computer": [
+    "entity"
+  ], 
+  "Maracas": [
+    "Musical instrument", 
+    "entity"
+  ], 
+  "Bowling equipment": [
+    "Sports equipment", 
+    "entity"
+  ], 
+  "Teapot": [
+    "Tableware", 
+    "Kitchenware", 
+    "entity"
+  ], 
+  "Artichoke": [
+    "Vegetable", 
+    "Food", 
+    "entity"
+  ], 
+  "Sea lion": [
+    "Marine mammal", 
+    "Mammal", 
+    "Animal", 
+    "entity"
+  ], 
+  "Parrot": [
+    "Bird", 
+    "Animal", 
+    "entity"
+  ], 
+  "Strawberry": [
+    "Food", 
+    "Fruit", 
+    "entity"
+  ], 
+  "Christmas tree": [
+    "Plant", 
+    "Tree", 
+    "entity"
+  ], 
+  "Lynx": [
+    "Mammal", 
+    "Carnivore", 
+    "Animal", 
+    "entity"
+  ], 
+  "Mammal": [
+    "Animal", 
+    "entity"
+  ], 
+  "Musical instrument": [
+    "entity"
+  ], 
+  "Roller skates": [
+    "Sports equipment", 
+    "Clothing", 
+    "Footwear", 
+    "entity"
+  ], 
+  "Billiard table": [
+    "Sports equipment", 
+    "entity"
+  ], 
+  "Pencil case": [
+    "Office supplies", 
+    "entity"
+  ], 
+  "Tennis racket": [
+    "Racket", 
+    "Sports equipment", 
+    "entity"
+  ], 
+  "Tick": [
+    "entity", 
+    "Animal", 
+    "Invertebrate"
+  ], 
+  "Drawer": [
+    "entity", 
+    "Furniture"
+  ], 
+  "Racket": [
+    "Sports equipment", 
+    "entity"
+  ], 
+  "Saucer": [
+    "Tableware", 
+    "Kitchenware", 
+    "entity"
+  ], 
+  "Sheep": [
+    "Mammal", 
+    "Animal", 
+    "entity"
+  ], 
+  "Fedora": [
+    "Clothing", 
+    "Fashion accessory", 
+    "Hat", 
+    "entity"
+  ], 
+  "Sunflower": [
+    "Plant", 
+    "Flower", 
+    "entity"
+  ], 
+  "Human head": [
+    "entity"
+  ], 
+  "Luggage and bags": [
+    "Clothing", 
+    "entity"
+  ], 
+  "Sombrero": [
+    "Clothing", 
+    "Fashion accessory", 
+    "Hat", 
+    "entity"
+  ], 
+  "Balance beam": [
+    "Sports equipment", 
+    "entity"
+  ], 
+  "Vehicle": [
+    "entity"
+  ], 
+  "Ski": [
+    "Sports equipment", 
+    "entity"
+  ], 
+  "Goat": [
+    "Mammal", 
+    "Animal", 
+    "entity"
+  ], 
+  "Table tennis racket": [
+    "Racket", 
+    "Sports equipment", 
+    "entity"
+  ], 
+  "Tart": [
+    "Food", 
+    "Baked goods", 
+    "Pastry", 
+    "entity"
+  ], 
+  "Woman": [
+    "Person", 
+    "entity"
+  ], 
+  "Ladle": [
+    "Kitchen utensil", 
+    "Tool", 
+    "Kitchenware", 
+    "entity"
+  ], 
+  "Cutting board": [
+    "Kitchen utensil", 
+    "Tool", 
+    "Kitchenware", 
+    "entity"
+  ], 
+  "Toothbrush": [
+    "Tool", 
+    "Personal care", 
+    "entity"
+  ], 
+  "Caterpillar": [
+    "Insect", 
+    "entity", 
+    "Moths and butterflies", 
+    "Animal", 
+    "Invertebrate"
+  ], 
+  "Kitchen utensil": [
+    "Tool", 
+    "Kitchenware", 
+    "entity"
+  ], 
+  "Hand dryer": [
+    "Home appliance", 
+    "entity"
+  ], 
+  "Penguin": [
+    "Bird", 
+    "Animal", 
+    "entity"
+  ], 
+  "Baseball bat": [
+    "Sports equipment", 
+    "entity"
+  ], 
+  "Wheelchair": [
+    "entity", 
+    "Land vehicle", 
+    "Personal care", 
+    "Vehicle"
+  ], 
+  "Saxophone": [
+    "Musical instrument", 
+    "entity"
+  ], 
+  "Pressure cooker": [
+    "Kitchenware", 
+    "Kitchen appliance", 
+    "entity"
+  ], 
+  "Lantern": [
+    "entity"
+  ], 
+  "Football helmet": [
+    "Helmet", 
+    "Clothing", 
+    "Sports equipment", 
+    "entity"
+  ], 
+  "Sofa bed": [
+    "entity", 
+    "Furniture", 
+    "Couch"
+  ], 
+  "Lobster": [
+    "Marine invertebrates", 
+    "Shellfish", 
+    "Food", 
+    "Seafood", 
+    "entity", 
+    "Animal", 
+    "Invertebrate"
+  ], 
+  "Oven": [
+    "Kitchenware", 
+    "Home appliance", 
+    "Kitchen appliance", 
+    "entity"
+  ], 
+  "House": [
+    "Building", 
+    "entity"
+  ], 
+  "Tree house": [
+    "Building", 
+    "entity"
+  ], 
+  "Watercraft": [
+    "entity", 
+    "Vehicle"
+  ], 
+  "Shirt": [
+    "Clothing", 
+    "entity"
+  ], 
+  "Tennis ball": [
+    "Sports equipment", 
+    "Ball", 
+    "entity"
+  ], 
+  "Scorpion": [
+    "entity", 
+    "Animal", 
+    "Invertebrate"
+  ], 
+  "Fox": [
+    "Mammal", 
+    "Carnivore", 
+    "Animal", 
+    "entity"
+  ], 
+  "Pen": [
+    "Office supplies", 
+    "entity"
+  ], 
+  "Human body": [
+    "entity"
+  ], 
+  "Printer": [
+    "entity"
+  ], 
+  "Tiara": [
+    "Fashion accessory", 
+    "Clothing", 
+    "entity"
+  ], 
+  "Tool": [
+    "entity"
+  ], 
+  "Slow cooker": [
+    "Kitchenware", 
+    "Kitchen appliance", 
+    "entity"
+  ], 
+  "Jellyfish": [
+    "Marine invertebrates", 
+    "entity", 
+    "Animal", 
+    "Invertebrate"
+  ], 
+  "Street light": [
+    "entity"
+  ], 
+  "Salt and pepper shakers": [
+    "Tableware", 
+    "Kitchenware", 
+    "entity"
+  ], 
+  "Tree": [
+    "Plant", 
+    "entity"
+  ], 
+  "Fax": [
+    "Office supplies", 
+    "entity"
+  ], 
+  "Baseball glove": [
+    "Sports equipment", 
+    "Fashion accessory", 
+    "Clothing", 
+    "Glove", 
+    "entity"
+  ], 
+  "Axe": [
+    "Tool", 
+    "Weapon", 
+    "entity"
+  ], 
+  "Bathroom accessory": [
+    "entity"
+  ], 
+  "Tin can": [
+    "Tool", 
+    "Container", 
+    "entity"
+  ], 
+  "Office building": [
+    "Building", 
+    "entity"
+  ], 
+  "Fish": [
+    "Animal", 
+    "entity"
+  ], 
+  "Spider": [
+    "entity", 
+    "Animal", 
+    "Invertebrate"
+  ], 
+  "Tableware": [
+    "Kitchenware", 
+    "entity"
+  ], 
+  "Jacuzzi": [
+    "entity"
+  ], 
+  "Boat": [
+    "entity", 
+    "Watercraft", 
+    "Vehicle"
+  ], 
+  "Ruler": [
+    "Tool", 
+    "entity"
+  ], 
+  "Syringe": [
+    "Medical equipment", 
+    "entity"
+  ], 
+  "Candle": [
+    "entity"
+  ], 
+  "Belt": [
+    "Fashion accessory", 
+    "Clothing", 
+    "entity"
+  ], 
+  "Harp": [
+    "Musical instrument", 
+    "entity"
+  ], 
+  "Plumbing fixture": [
+    "entity"
+  ], 
+  "Closet": [
+    "entity", 
+    "Furniture"
+  ], 
+  "Suitcase": [
+    "Luggage and bags", 
+    "Clothing", 
+    "entity"
+  ], 
+  "Winter melon": [
+    "Vegetable", 
+    "Food", 
+    "entity"
+  ], 
+  "Bench": [
+    "entity", 
+    "Furniture"
+  ], 
+  "Rhinoceros": [
+    "Mammal", 
+    "Animal", 
+    "entity"
+  ], 
+  "Submarine sandwich": [
+    "Food", 
+    "Sandwich", 
+    "entity"
+  ], 
+  "Sandal": [
+    "Clothing", 
+    "Footwear", 
+    "entity"
+  ], 
+  "Unicycle": [
+    "entity", 
+    "Land vehicle", 
+    "Vehicle"
+  ], 
+  "Curtain": [
+    "entity"
+  ], 
+  "Mule": [
+    "Mammal", 
+    "Animal", 
+    "entity"
+  ], 
+  "Lily": [
+    "Plant", 
+    "Flower", 
+    "entity"
+  ], 
+  "Mixer": [
+    "Kitchenware", 
+    "Home appliance", 
+    "Kitchen appliance", 
+    "entity"
+  ], 
+  "Jug": [
+    "Container", 
+    "Tableware", 
+    "Kitchenware", 
+    "Tool", 
+    "entity"
+  ], 
+  "Bus": [
+    "entity", 
+    "Land vehicle", 
+    "Vehicle"
+  ], 
+  "Ladder": [
+    "Tool", 
+    "entity"
+  ], 
+  "Cart": [
+    "entity", 
+    "Land vehicle", 
+    "Vehicle"
+  ], 
+  "Guitar": [
+    "Musical instrument", 
+    "entity"
+  ], 
+  "Spoon": [
+    "Kitchen utensil", 
+    "Tool", 
+    "Kitchenware", 
+    "Tableware", 
+    "entity"
+  ], 
+  "Train": [
+    "entity", 
+    "Land vehicle", 
+    "Vehicle"
+  ], 
+  "Cucumber": [
+    "Vegetable", 
+    "Food", 
+    "entity"
+  ], 
+  "Barge": [
+    "entity", 
+    "Watercraft", 
+    "Boat", 
+    "Vehicle"
+  ], 
+  "Cricket ball": [
+    "Sports equipment", 
+    "Ball", 
+    "entity"
+  ], 
+  "Fireplace": [
+    "entity"
+  ], 
+  "Swimming pool": [
+    "entity"
+  ], 
+  "Office supplies": [
+    "entity"
+  ], 
+  "Tomato": [
+    "Food", 
+    "Vegetable", 
+    "Fruit", 
+    "entity"
+  ], 
+  "Toaster": [
+    "Home appliance", 
+    "entity"
+  ], 
+  "Stapler": [
+    "Office supplies", 
+    "entity"
+  ], 
+  "Glove": [
+    "Fashion accessory", 
+    "Clothing", 
+    "entity"
+  ], 
+  "Human eye": [
+    "entity"
+  ], 
+  "Drill": [
+    "Tool", 
+    "entity"
+  ], 
+  "Sculpture": [
+    "entity"
+  ], 
+  "Bagel": [
+    "Food", 
+    "Baked goods", 
+    "entity"
+  ], 
+  "Antelope": [
+    "Mammal", 
+    "Animal", 
+    "entity"
+  ], 
+  "Rocket": [
+    "Aircraft", 
+    "entity", 
+    "Vehicle"
+  ], 
+  "Seat belt": [
+    "Auto part", 
+    "entity"
+  ], 
+  "Sushi": [
+    "Food", 
+    "entity"
+  ], 
+  "Ant": [
+    "Insect", 
+    "entity", 
+    "Animal", 
+    "Invertebrate"
+  ], 
+  "Trumpet": [
+    "Musical instrument", 
+    "entity"
+  ], 
+  "Flashlight": [
+    "Tool", 
+    "entity"
+  ], 
+  "Lighthouse": [
+    "Building", 
+    "entity"
+  ], 
+  "Dice": [
+    "Toy", 
+    "entity"
+  ], 
+  "Tire": [
+    "Auto part", 
+    "entity"
+  ], 
+  "Bust": [
+    "Sculpture", 
+    "entity"
+  ], 
+  "Couch": [
+    "entity", 
+    "Furniture"
+  ], 
+  "Light switch": [
+    "entity"
+  ], 
+  "Eraser": [
+    "Office supplies", 
+    "entity"
+  ], 
+  "Tie": [
+    "Fashion accessory", 
+    "Clothing", 
+    "entity"
+  ], 
+  "Plant": [
+    "entity"
+  ], 
+  "Sunglasses": [
+    "Fashion accessory", 
+    "Clothing", 
+    "Personal care", 
+    "entity"
+  ], 
+  "Squirrel": [
+    "Mammal", 
+    "Animal", 
+    "entity"
+  ], 
+  "Spice rack": [
+    "Kitchenware", 
+    "entity"
+  ], 
+  "Potato": [
+    "Vegetable", 
+    "Food", 
+    "entity"
+  ], 
+  "Human ear": [
+    "entity"
+  ], 
+  "Bear": [
+    "Mammal", 
+    "Carnivore", 
+    "Animal", 
+    "entity"
+  ], 
+  "Bicycle wheel": [
+    "entity"
+  ], 
+  "Pancake": [
+    "Food", 
+    "entity"
+  ], 
+  "Pasta": [
+    "Food", 
+    "entity"
+  ], 
+  "Picnic basket": [
+    "Tool", 
+    "Container", 
+    "entity"
+  ], 
+  "Hot dog": [
+    "Food", 
+    "entity", 
+    "Fast food"
+  ], 
+  "Shotgun": [
+    "Weapon", 
+    "entity"
+  ], 
+  "Convenience store": [
+    "Building", 
+    "entity"
+  ], 
+  "Mango": [
+    "Food", 
+    "Fruit", 
+    "entity"
+  ], 
+  "Truck": [
+    "entity", 
+    "Land vehicle", 
+    "Vehicle"
+  ], 
+  "Pineapple": [
+    "Food", 
+    "Fruit", 
+    "entity"
+  ], 
+  "Cowboy hat": [
+    "Clothing", 
+    "Fashion accessory", 
+    "Hat", 
+    "entity"
+  ], 
+  "Poster": [
+    "Office supplies", 
+    "entity"
+  ], 
+  "Owl": [
+    "Bird", 
+    "Animal", 
+    "entity"
+  ], 
+  "Ceiling fan": [
+    "Home appliance", 
+    "entity"
+  ], 
+  "Camel": [
+    "Mammal", 
+    "Animal", 
+    "entity"
+  ], 
+  "Stop sign": [
+    "Traffic sign", 
+    "entity"
+  ], 
+  "Spatula": [
+    "Kitchen utensil", 
+    "Tool", 
+    "Kitchenware", 
+    "entity"
+  ], 
+  "Snowboard": [
+    "Sports equipment", 
+    "entity"
+  ], 
+  "Moths and butterflies": [
+    "Insect", 
+    "entity", 
+    "Animal", 
+    "Invertebrate"
+  ], 
+  "Personal care": [
+    "entity"
+  ], 
+  "Trombone": [
+    "Musical instrument", 
+    "entity"
+  ], 
+  "Violin": [
+    "Musical instrument", 
+    "entity"
+  ], 
+  "Girl": [
+    "Person", 
+    "entity"
+  ], 
+  "Flying disc": [
+    "Sports equipment", 
+    "Toy", 
+    "entity"
+  ], 
+  "Clothing": [
+    "entity"
+  ], 
+  "Hippopotamus": [
+    "Mammal", 
+    "Animal", 
+    "entity"
+  ], 
+  "Red panda": [
+    "Mammal", 
+    "Carnivore", 
+    "Animal", 
+    "entity"
+  ], 
+  "Flower": [
+    "Plant", 
+    "entity"
+  ], 
+  "Parking meter": [
+    "entity"
+  ], 
+  "Harpsichord": [
+    "Musical instrument", 
+    "entity"
+  ], 
+  "Limousine": [
+    "entity", 
+    "Car", 
+    "Land vehicle", 
+    "Vehicle"
+  ], 
+  "Woodpecker": [
+    "Bird", 
+    "Animal", 
+    "entity"
+  ], 
+  "Cantaloupe": [
+    "Food", 
+    "Fruit", 
+    "entity"
+  ], 
+  "Sandwich": [
+    "Food", 
+    "entity"
+  ], 
+  "Football": [
+    "Sports equipment", 
+    "Ball", 
+    "entity"
+  ], 
+  "Missile": [
+    "Weapon", 
+    "entity"
+  ], 
+  "Snake": [
+    "Reptile", 
+    "Animal", 
+    "entity"
+  ], 
+  "Taco": [
+    "Food", 
+    "entity"
+  ], 
+  "Coin": [
+    "entity"
+  ], 
+  "Handgun": [
+    "Weapon", 
+    "entity"
+  ], 
+  "Building": [
+    "entity"
+  ], 
+  "Kettle": [
+    "Home appliance", 
+    "entity"
+  ], 
+  "Drum": [
+    "Musical instrument", 
+    "entity"
+  ], 
+  "Tortoise": [
+    "Turtle", 
+    "Reptile", 
+    "Animal", 
+    "entity"
+  ], 
+  "Salad": [
+    "Vegetable", 
+    "Food", 
+    "entity"
+  ], 
+  "Sea turtle": [
+    "Turtle", 
+    "Reptile", 
+    "Animal", 
+    "entity"
+  ], 
+  "Whale": [
+    "Marine mammal", 
+    "Mammal", 
+    "Animal", 
+    "entity"
+  ], 
+  "Headphones": [
+    "entity"
+  ], 
+  "Perfume": [
+    "Cosmetics", 
+    "entity"
+  ], 
+  "Dog bed": [
+    "entity"
+  ], 
+  "Ring binder": [
+    "Office supplies", 
+    "entity"
+  ], 
+  "Centipede": [
+    "entity", 
+    "Animal", 
+    "Invertebrate"
+  ], 
+  "Wrench": [
+    "Tool", 
+    "entity"
+  ], 
+  "Cello": [
+    "Musical instrument", 
+    "entity"
+  ], 
+  "Bomb": [
+    "Weapon", 
+    "entity"
+  ], 
+  "Bathtub": [
+    "Plumbing fixture", 
+    "entity"
+  ], 
+  "Wine": [
+    "Drink", 
+    "entity"
+  ], 
+  "Shark": [
+    "Fish", 
+    "Animal", 
+    "entity"
+  ], 
+  "Loveseat": [
+    "entity", 
+    "Furniture", 
+    "Couch"
+  ], 
+  "Popcorn": [
+    "Food", 
+    "Snack", 
+    "entity"
+  ], 
+  "Kite": [
+    "Toy", 
+    "entity"
+  ], 
+  "Bidet": [
+    "Plumbing fixture", 
+    "entity"
+  ], 
+  "Kitchen knife": [
+    "Tableware", 
+    "Kitchenware", 
+    "entity"
+  ], 
+  "Pig": [
+    "Mammal", 
+    "Animal", 
+    "entity"
+  ], 
+  "Studio couch": [
+    "entity", 
+    "Bed", 
+    "Furniture"
+  ], 
+  "Human mouth": [
+    "entity"
+  ], 
+  "Dress": [
+    "Clothing", 
+    "entity"
+  ], 
+  "Human leg": [
+    "entity"
+  ], 
+  "Computer monitor": [
+    "entity"
+  ], 
+  "Scale": [
+    "Tool", 
+    "entity"
+  ], 
+  "Lemon": [
+    "Food", 
+    "Fruit", 
+    "entity"
+  ], 
+  "Humidifier": [
+    "Home appliance", 
+    "entity"
+  ], 
+  "Wine rack": [
+    "entity", 
+    "Furniture"
+  ], 
+  "Beer": [
+    "Drink", 
+    "entity"
+  ], 
+  "Grapefruit": [
+    "Food", 
+    "Fruit", 
+    "entity"
+  ], 
+  "Human nose": [
+    "entity"
+  ], 
+  "Miniskirt": [
+    "Clothing", 
+    "Skirt", 
+    "entity"
+  ], 
+  "Helicopter": [
+    "Aircraft", 
+    "entity", 
+    "Vehicle"
+  ], 
+  "Butterfly": [
+    "Insect", 
+    "entity", 
+    "Moths and butterflies", 
+    "Animal", 
+    "Invertebrate"
+  ], 
+  "Parachute": [
+    "Sports equipment", 
+    "entity"
+  ], 
+  "Coffee": [
+    "Drink", 
+    "entity"
+  ], 
+  "Cassette deck": [
+    "entity"
+  ], 
+  "Bronze sculpture": [
+    "Sculpture", 
+    "entity"
+  ], 
+  "Magpie": [
+    "Bird", 
+    "Animal", 
+    "entity"
+  ], 
+  "Bull": [
+    "Mammal", 
+    "Animal", 
+    "entity"
+  ], 
+  "Stairs": [
+    "entity"
+  ], 
+  "Box": [
+    "Office supplies", 
+    "entity"
+  ], 
+  "Boy": [
+    "Person", 
+    "entity"
+  ], 
+  "Surfboard": [
+    "Sports equipment", 
+    "entity"
+  ], 
+  "Raccoon": [
+    "Mammal", 
+    "Carnivore", 
+    "Animal", 
+    "entity"
+  ], 
+  "Turtle": [
+    "Reptile", 
+    "Animal", 
+    "entity"
+  ], 
+  "Toilet": [
+    "Plumbing fixture", 
+    "entity"
+  ], 
+  "Stretcher": [
+    "Medical equipment", 
+    "entity"
+  ], 
+  "Beehive": [
+    "entity"
+  ], 
+  "Human face": [
+    "entity"
+  ], 
+  "Lavender": [
+    "Plant", 
+    "Flower", 
+    "entity"
+  ], 
+  "Cabinetry": [
+    "entity", 
+    "Furniture"
+  ], 
+  "Crocodile": [
+    "Reptile", 
+    "Animal", 
+    "entity"
+  ], 
+  "Lion": [
+    "Mammal", 
+    "Carnivore", 
+    "Animal", 
+    "entity"
+  ], 
+  "Goggles": [
+    "Fashion accessory", 
+    "Clothing", 
+    "Personal care", 
+    "entity"
+  ], 
+  "Nightstand": [
+    "entity", 
+    "Furniture"
+  ], 
+  "Gas stove": [
+    "Home appliance", 
+    "entity"
+  ], 
+  "Beetle": [
+    "Insect", 
+    "entity", 
+    "Animal", 
+    "Invertebrate"
+  ], 
+  "Fashion accessory": [
+    "Clothing", 
+    "entity"
+  ], 
+  "Dolphin": [
+    "Marine mammal", 
+    "Mammal", 
+    "Animal", 
+    "entity"
+  ], 
+  "Coffeemaker": [
+    "Kitchenware", 
+    "Home appliance", 
+    "Kitchen appliance", 
+    "entity"
+  ], 
+  "Grape": [
+    "Food", 
+    "Fruit", 
+    "entity"
+  ], 
+  "Shellfish": [
+    "Food", 
+    "Seafood", 
+    "Animal", 
+    "entity"
+  ], 
+  "Brassiere": [
+    "Clothing", 
+    "entity"
+  ], 
+  "Door handle": [
+    "entity"
+  ], 
+  "Bowl": [
+    "Tableware", 
+    "Kitchenware", 
+    "entity"
+  ], 
+  "Can opener": [
+    "Kitchen utensil", 
+    "Tool", 
+    "Kitchenware", 
+    "entity"
+  ], 
+  "High heels": [
+    "Clothing", 
+    "Footwear", 
+    "entity"
+  ], 
+  "Dairy": [
+    "Food", 
+    "entity"
+  ], 
+  "Cosmetics": [
+    "entity"
+  ], 
+  "Binoculars": [
+    "Tool", 
+    "entity"
+  ], 
+  "Ball": [
+    "Sports equipment", 
+    "entity"
+  ], 
+  "Cocktail shaker": [
+    "Tableware", 
+    "Kitchenware", 
+    "entity"
+  ], 
+  "Hiking equipment": [
+    "Sports equipment", 
+    "entity"
+  ], 
+  "Blue jay": [
+    "Bird", 
+    "Animal", 
+    "entity"
+  ], 
+  "Insect": [
+    "entity", 
+    "Animal", 
+    "Invertebrate"
+  ], 
+  "Cookie": [
+    "Food", 
+    "Dessert", 
+    "Snack", 
+    "Baked goods", 
+    "entity"
+  ], 
+  "Toilet paper": [
+    "Bathroom accessory", 
+    "Office supplies", 
+    "entity"
+  ], 
+  "Stethoscope": [
+    "Medical equipment", 
+    "entity"
+  ], 
+  "Medical equipment": [
+    "entity"
+  ], 
+  "Bread": [
+    "Food", 
+    "Baked goods", 
+    "entity"
+  ], 
+  "Golf cart": [
+    "entity", 
+    "Land vehicle", 
+    "Vehicle"
+  ], 
+  "Whisk": [
+    "Kitchen utensil", 
+    "Tool", 
+    "Kitchenware", 
+    "entity"
+  ], 
+  "Seahorse": [
+    "Fish", 
+    "Animal", 
+    "entity"
+  ], 
+  "Land vehicle": [
+    "entity", 
+    "Vehicle"
+  ], 
+  "Sports equipment": [
+    "entity"
+  ], 
+  "Castle": [
+    "Building", 
+    "entity"
+  ], 
+  "Window blind": [
+    "entity"
+  ], 
+  "Hedgehog": [
+    "Mammal", 
+    "Animal", 
+    "entity"
+  ], 
+  "Bicycle": [
+    "entity", 
+    "Sports equipment", 
+    "Land vehicle", 
+    "Vehicle"
+  ], 
+  "Tea": [
+    "Drink", 
+    "entity"
+  ], 
+  "Torch": [
+    "Tool", 
+    "entity"
+  ], 
+  "Scoreboard": [
+    "Sports equipment", 
+    "entity"
+  ], 
+  "Paper towel": [
+    "entity"
+  ], 
+  "Billboard": [
+    "entity"
+  ], 
+  "Scissors": [
+    "Tool", 
+    "Office supplies", 
+    "entity"
+  ], 
+  "Ice cream": [
+    "Food", 
+    "Dessert", 
+    "entity"
+  ], 
+  "Cream": [
+    "Personal care", 
+    "entity"
+  ], 
+  "Koala": [
+    "Mammal", 
+    "Animal", 
+    "entity"
+  ], 
+  "Houseplant": [
+    "Plant", 
+    "entity"
+  ], 
+  "Alarm clock": [
+    "entity", 
+    "Clock"
+  ], 
+  "Human hair": [
+    "entity"
+  ], 
+  "Vehicle registration plate": [
+    "Auto part", 
+    "entity"
+  ], 
+  "Trousers": [
+    "Clothing", 
+    "entity"
+  ], 
+  "Horizontal bar": [
+    "Sports equipment", 
+    "entity"
+  ], 
+  "Coffee cup": [
+    "Tableware", 
+    "Kitchenware", 
+    "entity"
+  ], 
+  "Banjo": [
+    "Musical instrument", 
+    "entity"
+  ], 
+  "Kitchen & dining room table": [
+    "Table", 
+    "entity", 
+    "Furniture"
+  ], 
+  "Shorts": [
+    "Clothing", 
+    "entity"
+  ], 
+  "Soap dispenser": [
+    "Bathroom accessory", 
+    "entity"
+  ], 
+  "Flute": [
+    "Musical instrument", 
+    "entity"
+  ], 
+  "Envelope": [
+    "Office supplies", 
+    "entity"
+  ], 
+  "Hair dryer": [
+    "Home appliance", 
+    "entity"
+  ], 
+  "Coffee table": [
+    "Table", 
+    "entity", 
+    "Furniture"
+  ], 
+  "Desk": [
+    "entity", 
+    "Furniture"
+  ], 
+  "Corded phone": [
+    "Telephone", 
+    "entity"
+  ], 
+  "Segway": [
+    "entity", 
+    "Land vehicle", 
+    "Vehicle"
+  ], 
+  "Man": [
+    "Person", 
+    "entity"
+  ], 
+  "Jaguar": [
+    "Mammal", 
+    "Carnivore", 
+    "Animal", 
+    "entity"
+  ], 
+  "Drinking straw": [
+    "Kitchen utensil", 
+    "Tool", 
+    "Kitchenware", 
+    "entity"
+  ], 
+  "Sword": [
+    "Weapon", 
+    "entity"
+  ], 
+  "Raven": [
+    "Bird", 
+    "Animal", 
+    "entity"
+  ], 
+  "Flowerpot": [
+    "Tool", 
+    "Container", 
+    "entity"
+  ], 
+  "Shower": [
+    "Plumbing fixture", 
+    "entity"
+  ], 
+  "Wall clock": [
+    "entity", 
+    "Clock", 
+    "Furniture"
+  ], 
+  "Volleyball": [
+    "Sports equipment", 
+    "Ball", 
+    "entity"
+  ], 
+  "Pumpkin": [
+    "Vegetable", 
+    "Food", 
+    "Squash", 
+    "entity"
+  ], 
+  "Skunk": [
+    "Mammal", 
+    "Animal", 
+    "entity"
+  ], 
+  "Sparrow": [
+    "Bird", 
+    "Animal", 
+    "entity"
+  ], 
+  "Oboe": [
+    "Musical instrument", 
+    "entity"
+  ], 
+  "Rugby ball": [
+    "Sports equipment", 
+    "Ball", 
+    "entity"
+  ], 
+  "Waffle": [
+    "Food", 
+    "entity"
+  ], 
+  "Pizza cutter": [
+    "Kitchen utensil", 
+    "Tool", 
+    "Kitchenware", 
+    "entity"
+  ], 
+  "Chicken": [
+    "Bird", 
+    "Animal", 
+    "entity"
+  ], 
+  "Cat furniture": [
+    "entity"
+  ], 
+  "Maple": [
+    "Plant", 
+    "Tree", 
+    "entity"
+  ], 
+  "Filing cabinet": [
+    "entity", 
+    "Furniture"
+  ]
+}
