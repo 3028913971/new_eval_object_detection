@@ -13,7 +13,7 @@ This repository includes:
 ## 2. Prepare files
 - **Hierarchy file**: the parent-child relationship between categories. Example: data/bbox_labels_600_hierarchy.json
 - **Class description file**(optional): mapping between category name and label. Example: data/class-descriptions.csv
-- **Annotation directory**: containing the groud truth bounding box. Example:test_example/independent_relationship/annotation
+- **Annotation directory**: containing the groud truth bounding box. Example: test_example/independent_relationship/annotation
 - **Xml text**: contains the prefix of image's name to test. Example: test_example/independent_relationship/test.txt
 - **test result**: the detection results of using your own model to test on evaluation dataset. Example: test_example/independent_relationship/result.txt
 ## 3. Run
