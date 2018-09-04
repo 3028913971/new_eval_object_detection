@@ -1,6 +1,6 @@
 # New Evaluation on Object Detection
 This is an implementation of evaluation on object detection. As is known to us all, clothing contains skirt, jacket, scarf and so on. Skirt contains miniskirt. 
-Compared with traditional evaluation methods, we consider the parent-child relationship between categories, making the mAP more meaningful. And we display the AP of every category as well.
+Compared with traditional evaluation methods, we consider the parent-child relationship among categories, making the mAP more meaningful. And we display the AP of every category as well.
 This repository includes:
 - Utils to generate intermediate files
 - Test examples
@@ -15,7 +15,10 @@ This repository includes:
 - **Class description file**(optional): mapping between category name and label. Example: data/class-descriptions.csv
 - **Annotation directory**: containing the groud truth bounding box. Example: test_example/independent_relationship/annotation
 - **Xml text**: contains the prefix of image's name to test. Example: test_example/independent_relationship/test.txt
-- **Test result**: the detection results of using your own model to test on evaluation dataset. Example: test_example/independent_relationship/result.txt
+- **Test result**: the detection results of using your own model to test on evaluation dataset. Example: test_example/independent_relationship/result.txt. Format as follows:
+```
+image_name, xmin, ymin, xmax, ymax, score, category_name
+```
 ## 3. Run
 python main.py
 ## 4. Output files
