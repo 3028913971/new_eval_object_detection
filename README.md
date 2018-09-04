@@ -16,9 +16,10 @@ This repository includes:
 - **Annotation directory**: containing the groud truth bounding box. Example: test_example/independent_relationship/annotation
 - **Xml text**: contains the prefix of image's name to test. Example: test_example/independent_relationship/test.txt
 - **Test result**: the detection results of using your own model to test on evaluation dataset. Example: test_example/independent_relationship/result.txt. Format as follows:
-```
-image_name, xmin, ymin, xmax, ymax, score, category_name
-```
+	```
+	image_name, xmin, ymin, xmax, ymax, score, category_name
+	......
+	```
 ## 3. Run
 python main.py
 ## 4. Output files
